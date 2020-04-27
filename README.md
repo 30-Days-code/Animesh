@@ -1,6 +1,6 @@
-#30 DAYS OF CODE
+# 30 DAYS OF CODE
 
-DAY 1 : Classes and Objects
+DAY 1: Classes and Objects
 Define a class to represent a book in a library. 
 Include the following members: -
 
