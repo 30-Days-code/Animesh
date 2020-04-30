@@ -16,3 +16,6 @@ Write a program to read and display information about employees and managers. Em
 
 ## DAY 3: If-Else Statement
 Write a program to take input as a digit (0-999) and convert it into words.
+
+## DAY 4: Pointers
+Write a function to encode a string. The string should get converted into an unrecognizable form. (Hint: You may change the ASCII code of the constituent character by adding or subtraction a constant number from the original ASCII value of the constituent characters.)
