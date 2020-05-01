@@ -31,7 +31,7 @@ Private Members:
  * Price => of type float
 A function Calc_Price() which calculates and assign the values of GPrice as follows:
 For the value of Material as "COTTON":
-######       Type                Price (Rs)
+      Type                Price (Rs)
       TROUSER              1500
       SHIRT                1200
 
