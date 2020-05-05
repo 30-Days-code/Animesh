@@ -60,4 +60,7 @@ Public Members:
   Then, Number_of_buses -> 2
   If, Number_of_travellers -> Equal to 40 or more than 40                      
   Then, Number_of_buses -> 3
- * A function ShowPlan() to display the content of all the data members on screen.
+ * A function ShowPlan() to disply the content of all the data members on screen.
+
+# DAY 8: Conditional/Ternary Operator (exp1 ? exp2 : exp3;)
+Write a program that invokes a function newdate() to return an object of date type. The function newdate() takes two parameters: an object olddate of date type and number of days (int) to calculate the newdate as olddate + number of days and returns the newdate.
